@@ -1,0 +1,32 @@
+@url          http://www.wired.com/underwire/2013/07/wired-robot-comic-con/
+
+@domain       www.wired.com
+
+@title        Yes, We Brought a 400-Pound Robot to Comic-Con | Underwire | Wired.com
+
+@authors    
+Adam Rogers
+
+@description  San Diego Comic-Con marks the debut of the WIRED Mech, a 9.5-foot-tall, 400-pound beast of cosplay that will wander the convention center environs, protecting the innocent and shooting an occasional video.
+
+@keywords     null
+
+@content      
+Every year at Comic-Con it’s the same thing: Some cosplayer in a painstakingly-constructed Ghostbusters costume laughs at our pathetic “mild-mannered reporter” getup, immediately identifying the sunken-chested, pasty-faced, keyboard-calloused journalist underneath. Well, not this time. This year is going to be different. They pull out a nerd? We pull out a giant robot. I say again: We have a giant robot. See above.
+San Diego Comic-Con marks the debut of the WIRED Mech, a 9.5-foot-tall, 400-pound beast of cosplay that will wander the convention center environs, protecting the innocent and shooting an occasional video. And how did we construct this ruler of all giant robots — this Jaeger-meister, if you will? We went to the Stan Winston School and Legacy Effects, the studio that built armor for Pacific Rim and Iron Man , and we asked for something special. They came up with an aluminum and urethane behemoth, and invented an innovative control mechanism to let the robot arms replicate even the smallest movements of the pilot’s. Except, you know, with a 12-foot wingspan. (A more in-depth look at the Mech’s construction will be part of YouTube’s Geek Week, August 4th to 10th.)
+We brought in a buddy to help us introduce the Mech to the world: Mythbusters and Tested.com icon Adam Savage, no stranger to elaborate costumes and sci-fi heavy weaponry. Savage will be handling the Wednesday unveiling; following that, the Mech will be on patrol at the Con. If you see him, send up a tweet or Instagram with the hashtag #wiredmech. We’ll be watching, and we’ll re-post the best ones.
+And if you’re not in San Diego, follow the news from home. We’re deploying a team of writers, photographers, and videographers to capture the weirdness and wonder of the con, and we’ll be liveblogging the whole thing here .
+So that’s our plan. If anyone messes with us this time? Let’s just say there is no problem at San Diego Comic-Con that can’t be solved with the judicious application of a heavily armored battle mech.
+
+
+@metaimage   http://www.wired.com/images_blogs/underwire/2013/07/WIRED_MECH_1-200x200.jpg @width: 200 @height: 200
+
+@finalmage   http://www.wired.com/images_blogs/underwire/2013/07/WIRED_MECH_1-200x200.jpg @width: 200 @height: 200
+
+
+
+
+@article***----------------------------------------
+
+
+
